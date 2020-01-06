@@ -63,7 +63,7 @@ public class DefaultPlantData : ScriptableObject
 	void OnSceneLoaded(Scene scene, LoadSceneMode mode)
 	{
 
-		InitializePool();
+		 InitializePool();
 	}
 
 
